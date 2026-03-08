@@ -1,0 +1,23 @@
+[Desktop Entry]
+Name=Smart Disk Doctor
+Name[tr]=Smart Disk Doctor
+Name[ru]=Smart Disk Doctor
+Name[ja]=Smart Disk Doctor
+
+Type=Application
+Terminal=false
+Exec=python3 /usr/share/SmartDiskDoctor/smartdiskdoctor.py
+Icon=smartdocicon
+Categories=System;Settings;HardwareSettings;
+Keywords=disk;hdd;ssd;smart;doctor;health;
+StartupNotify=true
+
+# Yerelleştirilmiş Açıklamalar
+Comment=Monitor storage health and SMART analysis
+Comment[tr]=Disk sağlığı izleme ve SMART analizi
+Comment[fr]=Surveillance de la santé du stockage et analyse SMART
+Comment[it]=Monitoraggio dello stato di archiviazione e analisi SMART
+Comment[es]=Monitoreo de la salud del almacenamiento y análisis SMART
+Comment[de]=Überwachung del Speicherzustands und SMART-Analyse
+Comment[ru]=Мониторинг состояния накопителей и анализ SMART
+Comment[ja]=ストレージの健康状態監視とSMART分析

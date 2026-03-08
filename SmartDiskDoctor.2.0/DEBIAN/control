@@ -1,0 +1,16 @@
+Package: smartdiskdoctor
+Version: 2.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, 
+         python3-pyqt6, 
+         smartmontools, 
+         coreutils, 
+         util-linux, 
+         policykit-1 | polkitd
+Maintainer: A. Serhat KILICOGLU <https://github.com/shampuan>
+Description: Smart Disk Doctor (formerly Zeus HDD Doctor)
+ A utility for monitoring storage health using SMART data.
+ This program checks the health of mechanical disks and SSDs, 
+ providing detailed SMART information and secure erase features.
