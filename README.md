@@ -1,5 +1,14 @@
+# Smart Disk Doctor
 
-<img width="1102" height="783" alt="Ekran görüntüsü_2025-07-15_00-04-40" src="https://github.com/user-attachments/assets/66c71d2f-4f59-40ac-aced-d6a2babe3925" />
+
+<img width="1110" height="784" alt="Ekran görüntüsü_2026-03-08_08-11-13" src="https://github.com/user-attachments/assets/e1a0d4de-2227-4d82-b47c-6d05666bbd03" />
+
+
+<img width="390" height="284" alt="Ekran görüntüsü_2026-03-08_08-11-21" src="https://github.com/user-attachments/assets/57bc32b5-0dc4-40cb-b402-f0eca47870e5" />
+
+
+<img width="810" height="634" alt="Ekran görüntüsü_2026-03-08_08-11-28" src="https://github.com/user-attachments/assets/ec93f01b-859d-435d-b909-8f3197b07d7e" />
+
 
 Zeus HDD Doctor, windows tarafındaki "HDD Sentinel" programına alternatif bir Debian yazılımıdır. Debian tabanlı sistemlerde, hafıza birimlerinin sağlığını kontrol eder ve kullanıcıya bilgi verir.
 
